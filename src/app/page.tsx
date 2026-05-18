@@ -37,7 +37,6 @@ export default function LandingPage() {
         { name: "Contact", id: "contact" },
       ]}
       brandName="Village Dental NYC"
-      className="text-foreground"
     />
   </div>
 
