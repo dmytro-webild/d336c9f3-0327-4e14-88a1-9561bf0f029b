@@ -42,7 +42,7 @@ export default function LandingPage() {
 
   <div id="hero" data-section="hero">
       <HeroLogo
-      logoText="Village Dental NYC"
+      logoText="NYC's Premier Luxury Dental Care"
       description="Premium Dental Care, Redefined for NYC. Experience dentistry designed for comfort and confidence. From routine cleanings to advanced cosmetic solutions, Village Dental NYC combines luxury wellness with expert clinical care."
       buttons={[
         { text: "Schedule Your Smile", href: "#contact" },
